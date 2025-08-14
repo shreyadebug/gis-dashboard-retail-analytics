@@ -9,6 +9,9 @@ The project was developed as a term paper submission for the course **CE432: Geo
 The dashboard provides a comprehensive suite of tools for visualizing and analyzing store performance, including:
 
 * **Interactive Map**: A dynamic map powered by Folium that displays all retail store locations. Markers are color-coded based on profitability (green for profitable, red for non-profitable), with clustering to improve performance.
+
+![Dashboard Interface](image/one)  
+
 * **Store-Level Popups**: Clicking on a store marker reveals a popup with detailed information, including store name, location, sales value, footfall, ratings, and operational status.
 * **Key Performance Indicators (KPIs)**: A summary section at the top of the dashboard displays aggregate metrics such as total number of stores, total sales, and the count of profitable stores.
 * **Dynamic Visualizations**: A collection of interactive charts created with Plotly to visualize key business trends, including:

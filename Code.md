@@ -1,9 +1,10 @@
-# Getting Started: Running the Application
+# Getting Started: Launching the Dashboard
 
-To get the application up and running, follow these simple steps.
+Follow these steps to quickly set up and run the application.
 
-## 1. Download the Code
-First, download the entire project folder from the provided Google Drive link.
+## 1. Download the Project
+Download the complete project folder from the following Google Drive link:  
+[Download Here](https://drive.google.com/drive/folders/1YiRneUdciNF1LAXFtbMZWwmEMPEW8T39?usp=drive_link)
 
-## 2. Execute the Python File
-Next, navigate to the project directory on your local machine and execute the main Python script to launch the application.
+## 2. Run the Application
+Navigate to the downloaded project folder on your computer and run the main Python script to start the dashboard.

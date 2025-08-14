@@ -14,6 +14,8 @@ The dashboard provides a comprehensive suite of tools for visualizing and analyz
 
 * **Store-Level Popups**: Clicking on a store marker reveals a popup with detailed information, including store name, location, sales value, footfall, ratings, and operational status.
 * **Key Performance Indicators (KPIs)**: A summary section at the top of the dashboard displays aggregate metrics such as total number of stores, total sales, and the count of profitable stores.
+![Dashboard Interface](image/KPI.png) 
+
 * **Dynamic Visualizations**: A collection of interactive charts created with Plotly to visualize key business trends, including:
     * Sales by store category.
     * Profitability analysis by state.

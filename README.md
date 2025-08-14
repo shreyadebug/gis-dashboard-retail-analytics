@@ -10,7 +10,7 @@ The dashboard provides a comprehensive suite of tools for visualizing and analyz
 
 * **Interactive Map**: A dynamic map powered by Folium that displays all retail store locations. Markers are color-coded based on profitability (green for profitable, red for non-profitable), with clustering to improve performance.
 
-![Dashboard Interface](image/one)  
+![Dashboard Interface](image/one.png) 
 
 * **Store-Level Popups**: Clicking on a store marker reveals a popup with detailed information, including store name, location, sales value, footfall, ratings, and operational status.
 * **Key Performance Indicators (KPIs)**: A summary section at the top of the dashboard displays aggregate metrics such as total number of stores, total sales, and the count of profitable stores.
